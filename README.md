@@ -1,4 +1,4 @@
-# Pertemuan-10
+# Praktikum-10
 # Latihan
 ## txt = 'Hello World'
 - Hitung jumlah karakternya
