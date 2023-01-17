@@ -16,8 +16,8 @@
 # Latihan
 # Lengkapi kode berikut:
 
-- umur = 24
-- txt = 'Hello, nama saya john, dan umur saya adalah... tahun'
+- umur = 19
+- txt = 'Hello, nama saya Rian Fauza, dan umur saya adalah... tahun'
 
 - print(txt.format(umur))
 
